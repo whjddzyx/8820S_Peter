@@ -9,9 +9,7 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 
-src-git lienol https://github.com/Lienol/openwrt-package
-#sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages
-#sed -i '$a src-git small https://github.com/kenzok8/small
+#src-git lienol https://github.com/Lienol/openwrt-package
 
 src-git mypackages https://github.com/siropboy/mypackages
 src-git liuran001_packages https://github.com/liuran001/openwrt-packages
